@@ -1,0 +1,22 @@
+p {
+
+display: block;
+}
+
+li {
+
+    display: inline;
+    padding: 1% 5%;
+}
+a {
+    cursor: crosshair;
+}
+
+body {
+
+    scroll-behavior: smooth;
+}
+
+.contact-block {
+    margin: 30px 0;
+}
