@@ -1,3 +1,36 @@
+body {
+    background-color: green;
+}
+
+header 
+
+li {
+    color: black
+}
+    
+    header  {
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+}
+
+h1, h2 {
+    color: maroon;
+    
+}
+h1 {
+    margin-top: 100px;
+    margin-bottom: 20px
+}
+
+h3 {
+    color: brown;
+}
+
+h4 {
+    color: orange;
+}
+
 p {
 
 display: block;
@@ -15,8 +48,11 @@ a {
 body {
 
     scroll-behavior: smooth;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .contact-block {
-    margin: 30px 0;
+    margin: 30px 30px;
 }
+
