@@ -1,32 +1,37 @@
+/* Added background color to body */
 body {
     background-color: green;
 }
 
+/* text color to links in header */
 header 
 
 li {
     color: black
 }
-    
+    /*fixed header position to always be on top  */
     header  {
     position: fixed; 
     top: 0; 
     width: 100%; 
 }
-
+/* Header 1 and 2 text colors */
 h1, h2 {
     color: maroon;
-    
+   
+    /* header 1 margins */
 }
 h1 {
     margin-top: 100px;
     margin-bottom: 20px
 }
 
+/* Header 3 text color */
 h3 {
     color: brown;
 }
 
+/* Header 4 text color */
 h4 {
     color: orange;
 }
@@ -41,10 +46,12 @@ li {
     display: inline;
     padding: 1% 5%;
 }
+/* Changed cursor type */
 a {
     cursor: crosshair;
 }
 
+/* text alignment and font type */
 body {
 
     scroll-behavior: smooth;
